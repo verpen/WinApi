@@ -1,0 +1,9 @@
+﻿  dz.cpp
+\\Mac\Home\Desktop\ДЗ\dz\dz.cpp(156,49): warning C4305: +=: усечение из "double" в "float"
+\\Mac\Home\Desktop\ДЗ\dz\dz.cpp(157,42): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+\\Mac\Home\Desktop\ДЗ\dz\dz.cpp(157,25): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+\\Mac\Home\Desktop\ДЗ\dz\dz.cpp(159,57): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+\\Mac\Home\Desktop\ДЗ\dz\dz.cpp(159,42): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+\\Mac\Home\Desktop\ДЗ\dz\dz.cpp(161,55): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+\\Mac\Home\Desktop\ДЗ\dz\dz.cpp(161,40): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  dz.vcxproj -> \\Mac\Home\Desktop\ДЗ\Debug\dz.exe
